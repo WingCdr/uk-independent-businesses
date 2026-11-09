@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Independent businesses in the UK, by town"
+message: "If you use these figures, please credit Independents Only (independentsonly.com/figures)."
+type: dataset
+authors:
+  - name: "Independents Only"
+    website: "https://independentsonly.com"
+license: CC-BY-4.0
+url: "https://independentsonly.com/figures"
+date-released: 2026-11-09
