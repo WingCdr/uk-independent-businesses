@@ -19,6 +19,16 @@ From [Independents Only](https://independentsonly.com), the free UK search engin
 | [Northamptonshire](counties/northamptonshire.md) | 15,427 | [Northamptonshire on Independents Only](https://independentsonly.com/county/northamptonshire) |
 | [Bedfordshire](counties/bedfordshire.md) | 13,376 | [Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire) |
 
+The most independent town in each county ([Indie Index](https://independentsonly.com/indie-index), share of shops, cafés, pubs, salons and places to stay that aren't chains):
+
+- **Suffolk:** Eye (96%)
+- **Essex:** Southminster (92%)
+- **Buckinghamshire:** Great Missenden (91%)
+- **Hertfordshire:** Knebworth (91%)
+- **Cambridgeshire:** Chatteris (86%)
+- **Bedfordshire:** Shefford (84%)
+- **Northamptonshire:** Brackley (84%)
+
 Every town, with counts and the most common kinds of business, is listed on each county's page in [`counties/`](counties).
 
 ## Finding independent businesses

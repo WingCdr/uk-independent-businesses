@@ -4,6 +4,30 @@
 
 Browse them all: **[Hertfordshire on Independents Only](https://independentsonly.com/county/hertfordshire)**
 
+## The most independent towns in Hertfordshire (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Knebworth](https://independentsonly.com/indie-index/knebworth-hertfordshire) | 91% |
+| 2 | [Kings Langley](https://independentsonly.com/indie-index/kings-langley-hertfordshire) | 91% |
+| 3 | [Sawbridgeworth](https://independentsonly.com/indie-index/sawbridgeworth-hertfordshire) | 86% |
+| 4 | [Radlett](https://independentsonly.com/indie-index/radlett-hertfordshire) | 86% |
+| 5 | [Buntingford](https://independentsonly.com/indie-index/buntingford-hertfordshire) | 86% |
+| 6 | [Abbots Langley](https://independentsonly.com/indie-index/abbots-langley-hertfordshire) | 85% |
+| 7 | [Tring](https://independentsonly.com/indie-index/tring-hertfordshire) | 84% |
+| 8 | [Bushey](https://independentsonly.com/indie-index/bushey-hertfordshire) | 83% |
+| 9 | [Welwyn](https://independentsonly.com/indie-index/welwyn-hertfordshire) | 82% |
+| 10 | [Hertford](https://independentsonly.com/indie-index/hertford-hertfordshire) | 82% |
+| 11 | [Ware](https://independentsonly.com/indie-index/ware-hertfordshire) | 82% |
+| 12 | [Potters Bar](https://independentsonly.com/indie-index/potters-bar-hertfordshire) | 81% |
+| 13 | [Royston](https://independentsonly.com/indie-index/royston-hertfordshire) | 78% |
+| 14 | [Hoddesdon](https://independentsonly.com/indie-index/hoddesdon-hertfordshire) | 78% |
+| 15 | [Hitchin](https://independentsonly.com/indie-index/hitchin-hertfordshire) | 78% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Hertfordshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

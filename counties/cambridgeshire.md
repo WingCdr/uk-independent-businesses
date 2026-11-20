@@ -4,6 +4,19 @@
 
 Browse them all: **[Cambridgeshire on Independents Only](https://independentsonly.com/county/cambridgeshire)**
 
+## The most independent towns in Cambridgeshire (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Chatteris](https://independentsonly.com/indie-index/chatteris-cambridgeshire) | 86% |
+| 2 | [Ely](https://independentsonly.com/indie-index/ely-cambridgeshire) | 82% |
+| 3 | [March](https://independentsonly.com/indie-index/march-cambridgeshire) | 79% |
+| 4 | [Wisbech](https://independentsonly.com/indie-index/wisbech-cambridgeshire) | 77% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Cambridgeshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

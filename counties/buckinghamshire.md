@@ -4,6 +4,23 @@
 
 Browse them all: **[Buckinghamshire on Independents Only](https://independentsonly.com/county/buckinghamshire)**
 
+## The most independent towns in Buckinghamshire (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Great Missenden](https://independentsonly.com/indie-index/great-missenden-buckinghamshire) | 91% |
+| 2 | [Chalfont St Giles](https://independentsonly.com/indie-index/chalfont-st-giles-buckinghamshire) | 91% |
+| 3 | [Princes Risborough](https://independentsonly.com/indie-index/princes-risborough-buckinghamshire) | 88% |
+| 4 | [Iver](https://independentsonly.com/indie-index/iver-buckinghamshire) | 87% |
+| 5 | [Olney](https://independentsonly.com/indie-index/olney-buckinghamshire) | 84% |
+| 6 | [Buckingham](https://independentsonly.com/indie-index/buckingham-buckinghamshire) | 82% |
+| 7 | [Bourne End](https://independentsonly.com/indie-index/bourne-end-buckinghamshire) | 82% |
+| 8 | [Newport Pagnell](https://independentsonly.com/indie-index/newport-pagnell-buckinghamshire) | 82% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Buckinghamshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

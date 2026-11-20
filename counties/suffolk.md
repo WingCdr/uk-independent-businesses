@@ -4,6 +4,24 @@
 
 Browse them all: **[Suffolk on Independents Only](https://independentsonly.com/county/suffolk)**
 
+## The most independent towns in Suffolk (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Eye](https://independentsonly.com/indie-index/eye-suffolk) | 96% |
+| 2 | [Leiston](https://independentsonly.com/indie-index/leiston-suffolk) | 94% |
+| 3 | [Bungay](https://independentsonly.com/indie-index/bungay-suffolk) | 90% |
+| 4 | [Saxmundham](https://independentsonly.com/indie-index/saxmundham-suffolk) | 90% |
+| 5 | [Halesworth](https://independentsonly.com/indie-index/halesworth-suffolk) | 89% |
+| 6 | [Brandon](https://independentsonly.com/indie-index/brandon-suffolk) | 89% |
+| 7 | [Woodbridge](https://independentsonly.com/indie-index/woodbridge-suffolk) | 85% |
+| 8 | [Felixstowe](https://independentsonly.com/indie-index/felixstowe-suffolk) | 81% |
+| 9 | [Beccles](https://independentsonly.com/indie-index/beccles-suffolk) | 80% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Suffolk, A to Z
 
 | Town | Independent businesses | Most common kinds |

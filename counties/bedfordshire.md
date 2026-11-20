@@ -4,6 +4,19 @@
 
 Browse them all: **[Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire)**
 
+## The most independent towns in Bedfordshire (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Shefford](https://independentsonly.com/indie-index/shefford-bedfordshire) | 84% |
+| 2 | [Sandy](https://independentsonly.com/indie-index/sandy-bedfordshire) | 84% |
+| 3 | [Henlow](https://independentsonly.com/indie-index/henlow-bedfordshire) | 82% |
+| 4 | [Bedford](https://independentsonly.com/indie-index/bedford-bedfordshire) | 80% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Bedfordshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

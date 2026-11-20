@@ -4,6 +4,19 @@
 
 Browse them all: **[Northamptonshire on Independents Only](https://independentsonly.com/county/northamptonshire)**
 
+## The most independent towns in Northamptonshire (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Brackley](https://independentsonly.com/indie-index/brackley-northamptonshire) | 84% |
+| 2 | [Wellingborough](https://independentsonly.com/indie-index/wellingborough-northamptonshire) | 80% |
+| 3 | [Towcester](https://independentsonly.com/indie-index/towcester-northamptonshire) | 79% |
+| 4 | [Kettering](https://independentsonly.com/indie-index/kettering-northamptonshire) | 78% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Northamptonshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

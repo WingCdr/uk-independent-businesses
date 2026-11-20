@@ -4,6 +4,35 @@
 
 Browse them all: **[Essex on Independents Only](https://independentsonly.com/county/essex)**
 
+## The most independent towns in Essex (Indie Index)
+
+The share of each town's shops, cafés, pubs, restaurants, salons and places to stay that aren't chains, counted by postal town. Towns need at least 50 such businesses to be ranked. [How it's worked out](https://independentsonly.com/indie-index/method)
+
+| Rank | Town | Independent |
+|---|---|---|
+| 1 | [Southminster](https://independentsonly.com/indie-index/southminster-essex) | 92% |
+| 2 | [Walton on the Naze](https://independentsonly.com/indie-index/walton-on-the-naze-essex) | 92% |
+| 3 | [Ongar](https://independentsonly.com/indie-index/ongar-essex) | 91% |
+| 4 | [Westcliff-on-Sea](https://independentsonly.com/indie-index/westcliff-on-sea-essex) | 90% |
+| 5 | [Burnham-on-Crouch](https://independentsonly.com/indie-index/burnham-on-crouch-essex) | 89% |
+| 6 | [Manningtree](https://independentsonly.com/indie-index/manningtree-essex) | 89% |
+| 7 | [Leigh-on-Sea](https://independentsonly.com/indie-index/leigh-on-sea-essex) | 89% |
+| 8 | [Hockley](https://independentsonly.com/indie-index/hockley-essex) | 89% |
+| 9 | [Stanford le Hope](https://independentsonly.com/indie-index/stanford-le-hope-essex) | 88% |
+| 10 | [Ingatestone](https://independentsonly.com/indie-index/ingatestone-essex) | 88% |
+| 11 | [Great Dunmow](https://independentsonly.com/indie-index/great-dunmow-essex) | 87% |
+| 12 | [South Ockendon](https://independentsonly.com/indie-index/south-ockendon-essex) | 87% |
+| 13 | [Chigwell](https://independentsonly.com/indie-index/chigwell-essex) | 86% |
+| 14 | [Halstead](https://independentsonly.com/indie-index/halstead-essex) | 85% |
+| 15 | [Buckhurst Hill](https://independentsonly.com/indie-index/buckhurst-hill-essex) | 84% |
+| 16 | [Benfleet](https://independentsonly.com/indie-index/benfleet-essex) | 84% |
+| 17 | [Tilbury](https://independentsonly.com/indie-index/tilbury-essex) | 82% |
+| 18 | [Frinton-on-Sea](https://independentsonly.com/indie-index/frinton-on-sea-essex) | 82% |
+| 19 | [Wickford](https://independentsonly.com/indie-index/wickford-essex) | 82% |
+| 20 | [Billericay](https://independentsonly.com/indie-index/billericay-essex) | 82% |
+
+Full table: [https://independentsonly.com/indie-index](https://independentsonly.com/indie-index)
+
 ## Every town in Essex, A to Z
 
 | Town | Independent businesses | Most common kinds |
