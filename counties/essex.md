@@ -4,54 +4,6 @@
 
 Browse them all: **[Essex on Independents Only](https://independentsonly.com/county/essex)**
 
-## The most independent towns in Essex (Indie Index)
-
-The share of each town's high-street businesses (shops, cafés, pubs, restaurants, salons and places to stay) that aren't chains. [How it's worked out](https://independentsonly.com/indie-index/method)
-
-| Rank | Town | Independent | High-street businesses |
-|---|---|---|---|
-| 1 | [Southminster](https://independentsonly.com/in/southminster-essex) | 91.8% | 56 of 61 |
-| 2 | [Walton on the Naze](https://independentsonly.com/in/walton-on-the-naze-essex) | 91.5% | 75 of 82 |
-| 3 | [Ongar](https://independentsonly.com/in/ongar-essex) | 90.5% | 95 of 105 |
-| 4 | [Westcliff-on-Sea](https://independentsonly.com/in/westcliff-on-sea-essex) | 89.8% | 316 of 352 |
-| 5 | [Burnham-on-Crouch](https://independentsonly.com/in/burnham-on-crouch-essex) | 89% | 97 of 109 |
-| 6 | [Manningtree](https://independentsonly.com/in/manningtree-essex) | 88.8% | 103 of 116 |
-| 7 | [Leigh-on-Sea](https://independentsonly.com/in/leigh-on-sea-essex) | 88.7% | 597 of 673 |
-| 8 | [Hockley](https://independentsonly.com/in/hockley-essex) | 88.6% | 140 of 158 |
-| 9 | [Stanford le Hope](https://independentsonly.com/in/stanford-le-hope-essex) | 87.8% | 187 of 213 |
-| 10 | [Ingatestone](https://independentsonly.com/in/ingatestone-essex) | 87.5% | 91 of 104 |
-| 11 | [Great Dunmow](https://independentsonly.com/in/great-dunmow-essex) | 86.8% | 210 of 242 |
-| 12 | [South Ockendon](https://independentsonly.com/in/south-ockendon-essex) | 86.7% | 111 of 128 |
-| 13 | [Chigwell](https://independentsonly.com/in/chigwell-essex) | 85.9% | 67 of 78 |
-| 14 | [Halstead](https://independentsonly.com/in/halstead-essex) | 84.7% | 216 of 255 |
-| 15 | [Buckhurst Hill](https://independentsonly.com/in/buckhurst-hill-essex) | 84.1% | 111 of 132 |
-| 16 | [Benfleet](https://independentsonly.com/in/benfleet-essex) | 84% | 362 of 431 |
-| 17 | [Tilbury](https://independentsonly.com/in/tilbury-essex) | 82.3% | 65 of 79 |
-| 18 | [Frinton-on-Sea](https://independentsonly.com/in/frinton-on-sea-essex) | 82.1% | 119 of 145 |
-| 19 | [Wickford](https://independentsonly.com/in/wickford-essex) | 81.9% | 299 of 365 |
-| 20 | [Billericay](https://independentsonly.com/in/billericay-essex) | 81.7% | 321 of 393 |
-| 21 | [Maldon](https://independentsonly.com/in/maldon-essex) | 81% | 357 of 441 |
-| 22 | [Canvey Island](https://independentsonly.com/in/canvey-island-essex) | 79.8% | 225 of 282 |
-| 23 | [Saffron Walden](https://independentsonly.com/in/saffron-walden-essex) | 79.7% | 291 of 365 |
-| 24 | [Colchester](https://independentsonly.com/in/colchester-essex) | 79.4% | 1762 of 2220 |
-| 25 | [Waltham Abbey](https://independentsonly.com/in/waltham-abbey-essex) | 78.9% | 172 of 218 |
-| 26 | [Rochford](https://independentsonly.com/in/rochford-essex) | 78.7% | 133 of 169 |
-| 27 | [Epping](https://independentsonly.com/in/epping-essex) | 78% | 202 of 259 |
-| 28 | [Harwich](https://independentsonly.com/in/harwich-essex) | 77.9% | 152 of 195 |
-| 29 | [Brentwood](https://independentsonly.com/in/brentwood-essex) | 77.4% | 534 of 690 |
-| 30 | [Southend-on-Sea](https://independentsonly.com/in/southend-on-sea-essex) | 77% | 939 of 1220 |
-| 31 | [Clacton-on-Sea](https://independentsonly.com/in/clacton-on-sea-essex) | 76.8% | 520 of 677 |
-| 32 | [Witham](https://independentsonly.com/in/witham-essex) | 76% | 196 of 258 |
-| 33 | [Rayleigh](https://independentsonly.com/in/rayleigh-essex) | 75.4% | 264 of 350 |
-| 34 | [Loughton](https://independentsonly.com/in/loughton-essex) | 74.3% | 306 of 412 |
-| 35 | [Chelmsford](https://independentsonly.com/in/chelmsford-essex) | 73.9% | 1249 of 1691 |
-| 36 | [Harlow](https://independentsonly.com/in/harlow-essex) | 69.5% | 551 of 793 |
-| 37 | [Braintree](https://independentsonly.com/in/braintree-essex) | 65.3% | 448 of 686 |
-| 38 | [Basildon](https://independentsonly.com/in/basildon-essex) | 64.5% | 511 of 792 |
-| 39 | [Grays](https://independentsonly.com/in/grays-essex) | 55.6% | 376 of 676 |
-| 40 | [Stansted Mountfitchet](https://independentsonly.com/in/stansted-mountfitchet-essex) | 55.1% | 86 of 156 |
-| 41 | [West Thurrock](https://independentsonly.com/in/west-thurrock-essex) | 21.2% | 11 of 52 |
-
 ## Every town in Essex, A to Z
 
 | Town | Independent businesses | Most common kinds |

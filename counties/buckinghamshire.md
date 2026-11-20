@@ -4,30 +4,6 @@
 
 Browse them all: **[Buckinghamshire on Independents Only](https://independentsonly.com/county/buckinghamshire)**
 
-## The most independent towns in Buckinghamshire (Indie Index)
-
-The share of each town's high-street businesses (shops, cafés, pubs, restaurants, salons and places to stay) that aren't chains. [How it's worked out](https://independentsonly.com/indie-index/method)
-
-| Rank | Town | Independent | High-street businesses |
-|---|---|---|---|
-| 1 | [Great Missenden](https://independentsonly.com/in/great-missenden-buckinghamshire) | 91.1% | 72 of 79 |
-| 2 | [Chalfont St Giles](https://independentsonly.com/in/chalfont-st-giles-buckinghamshire) | 90.7% | 49 of 54 |
-| 3 | [Princes Risborough](https://independentsonly.com/in/princes-risborough-buckinghamshire) | 87.5% | 98 of 112 |
-| 4 | [Iver](https://independentsonly.com/in/iver-buckinghamshire) | 86.7% | 85 of 98 |
-| 5 | [Olney](https://independentsonly.com/in/olney-buckinghamshire) | 84.4% | 146 of 173 |
-| 6 | [Buckingham](https://independentsonly.com/in/buckingham-buckinghamshire) | 81.7% | 272 of 333 |
-| 7 | [Bourne End](https://independentsonly.com/in/bourne-end-buckinghamshire) | 81.6% | 62 of 76 |
-| 8 | [Newport Pagnell](https://independentsonly.com/in/newport-pagnell-buckinghamshire) | 81.5% | 176 of 216 |
-| 9 | [Gerrards Cross](https://independentsonly.com/in/gerrards-cross-buckinghamshire) | 78.1% | 189 of 242 |
-| 10 | [Chesham](https://independentsonly.com/in/chesham-buckinghamshire) | 77.9% | 176 of 226 |
-| 11 | [Aylesbury](https://independentsonly.com/in/aylesbury-buckinghamshire) | 74% | 747 of 1009 |
-| 12 | [Marlow](https://independentsonly.com/in/marlow-buckinghamshire) | 72.8% | 246 of 338 |
-| 13 | [Amersham](https://independentsonly.com/in/amersham-buckinghamshire) | 72.7% | 258 of 355 |
-| 14 | [Milton Keynes](https://independentsonly.com/in/milton-keynes-buckinghamshire) | 71.2% | 1784 of 2506 |
-| 15 | [Bletchley](https://independentsonly.com/in/bletchley-buckinghamshire) | 69% | 40 of 58 |
-| 16 | [High Wycombe](https://independentsonly.com/in/high-wycombe-buckinghamshire) | 68.7% | 722 of 1051 |
-| 17 | [Beaconsfield](https://independentsonly.com/in/beaconsfield-buckinghamshire) | 64.6% | 190 of 294 |
-
 ## Every town in Buckinghamshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

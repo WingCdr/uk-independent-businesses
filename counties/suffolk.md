@@ -4,31 +4,6 @@
 
 Browse them all: **[Suffolk on Independents Only](https://independentsonly.com/county/suffolk)**
 
-## The most independent towns in Suffolk (Indie Index)
-
-The share of each town's high-street businesses (shops, cafés, pubs, restaurants, salons and places to stay) that aren't chains. [How it's worked out](https://independentsonly.com/indie-index/method)
-
-| Rank | Town | Independent | High-street businesses |
-|---|---|---|---|
-| 1 | [Eye](https://independentsonly.com/in/eye-suffolk) | 95.5% | 64 of 67 |
-| 2 | [Leiston](https://independentsonly.com/in/leiston-suffolk) | 93.6% | 73 of 78 |
-| 3 | [Bungay](https://independentsonly.com/in/bungay-suffolk) | 90.2% | 83 of 92 |
-| 4 | [Saxmundham](https://independentsonly.com/in/saxmundham-suffolk) | 89.6% | 112 of 125 |
-| 5 | [Halesworth](https://independentsonly.com/in/halesworth-suffolk) | 88.7% | 110 of 124 |
-| 6 | [Brandon](https://independentsonly.com/in/brandon-suffolk) | 88.5% | 123 of 139 |
-| 7 | [Woodbridge](https://independentsonly.com/in/woodbridge-suffolk) | 84.9% | 395 of 465 |
-| 8 | [Felixstowe](https://independentsonly.com/in/felixstowe-suffolk) | 81.2% | 277 of 341 |
-| 9 | [Beccles](https://independentsonly.com/in/beccles-suffolk) | 80.3% | 167 of 208 |
-| 10 | [Aldeburgh](https://independentsonly.com/in/aldeburgh-suffolk) | 78% | 71 of 91 |
-| 11 | [Lowestoft](https://independentsonly.com/in/lowestoft-suffolk) | 77.5% | 624 of 805 |
-| 12 | [Stowmarket](https://independentsonly.com/in/stowmarket-suffolk) | 77.2% | 240 of 311 |
-| 13 | [Sudbury](https://independentsonly.com/in/sudbury-suffolk) | 76.8% | 444 of 578 |
-| 14 | [Newmarket](https://independentsonly.com/in/newmarket-suffolk) | 75.9% | 331 of 436 |
-| 15 | [Ipswich](https://independentsonly.com/in/ipswich-suffolk) | 75.6% | 1463 of 1936 |
-| 16 | [Bury St Edmunds](https://independentsonly.com/in/bury-st-edmunds-suffolk) | 74.7% | 805 of 1078 |
-| 17 | [Haverhill](https://independentsonly.com/in/haverhill-suffolk) | 74.2% | 190 of 256 |
-| 18 | [Southwold](https://independentsonly.com/in/southwold-suffolk) | 74.2% | 98 of 132 |
-
 ## Every town in Suffolk, A to Z
 
 | Town | Independent businesses | Most common kinds |

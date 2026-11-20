@@ -8,17 +8,16 @@ From [Independents Only](https://independentsonly.com), the free UK search engin
 
 - 152,365 independent businesses listed across seven counties.
 - About one in five has no website of its own, so it's hard to find through ordinary web search.
-- The most independent towns in each county, by the share of high-street businesses that aren't chains, are below. The full method is at [independentsonly.com/indie-index/method](https://independentsonly.com/indie-index/method).
 
-| County | Independent businesses | Most independent towns (Indie Index) | Browse |
-|---|---|---|---|
-| [Essex](counties/essex.md) | 40,126 | [Southminster](https://independentsonly.com/in/southminster-essex) (91.8%), [Walton on the Naze](https://independentsonly.com/in/walton-on-the-naze-essex) (91.5%), [Ongar](https://independentsonly.com/in/ongar-essex) (90.5%) | [Essex on Independents Only](https://independentsonly.com/county/essex) |
-| [Hertfordshire](counties/hertfordshire.md) | 29,470 | [Knebworth](https://independentsonly.com/in/knebworth-hertfordshire) (91.3%), [Kings Langley](https://independentsonly.com/in/kings-langley-hertfordshire) (90.5%), [Sawbridgeworth](https://independentsonly.com/in/sawbridgeworth-hertfordshire) (85.9%) | [Hertfordshire on Independents Only](https://independentsonly.com/county/hertfordshire) |
-| [Buckinghamshire](counties/buckinghamshire.md) | 19,105 | [Great Missenden](https://independentsonly.com/in/great-missenden-buckinghamshire) (91.1%), [Chalfont St Giles](https://independentsonly.com/in/chalfont-st-giles-buckinghamshire) (90.7%), [Princes Risborough](https://independentsonly.com/in/princes-risborough-buckinghamshire) (87.5%) | [Buckinghamshire on Independents Only](https://independentsonly.com/county/buckinghamshire) |
-| [Cambridgeshire](counties/cambridgeshire.md) | 18,682 | [Chatteris](https://independentsonly.com/in/chatteris-cambridgeshire) (86%), [Ely](https://independentsonly.com/in/ely-cambridgeshire) (82%), [March](https://independentsonly.com/in/march-cambridgeshire) (78.6%) | [Cambridgeshire on Independents Only](https://independentsonly.com/county/cambridgeshire) |
-| [Suffolk](counties/suffolk.md) | 16,179 | [Eye](https://independentsonly.com/in/eye-suffolk) (95.5%), [Leiston](https://independentsonly.com/in/leiston-suffolk) (93.6%), [Bungay](https://independentsonly.com/in/bungay-suffolk) (90.2%) | [Suffolk on Independents Only](https://independentsonly.com/county/suffolk) |
-| [Northamptonshire](counties/northamptonshire.md) | 15,427 | [Brackley](https://independentsonly.com/in/brackley-northamptonshire) (83.7%), [Wellingborough](https://independentsonly.com/in/wellingborough-northamptonshire) (79.9%), [Towcester](https://independentsonly.com/in/towcester-northamptonshire) (79%) | [Northamptonshire on Independents Only](https://independentsonly.com/county/northamptonshire) |
-| [Bedfordshire](counties/bedfordshire.md) | 13,376 | [Arlesey](https://independentsonly.com/in/arlesey-bedfordshire) (100%), [Shefford](https://independentsonly.com/in/shefford-bedfordshire) (84%), [Sandy](https://independentsonly.com/in/sandy-bedfordshire) (83.5%) | [Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire) |
+| County | Independent businesses | Browse |
+|---|---|---|
+| [Essex](counties/essex.md) | 40,126 | [Essex on Independents Only](https://independentsonly.com/county/essex) |
+| [Hertfordshire](counties/hertfordshire.md) | 29,470 | [Hertfordshire on Independents Only](https://independentsonly.com/county/hertfordshire) |
+| [Buckinghamshire](counties/buckinghamshire.md) | 19,105 | [Buckinghamshire on Independents Only](https://independentsonly.com/county/buckinghamshire) |
+| [Cambridgeshire](counties/cambridgeshire.md) | 18,682 | [Cambridgeshire on Independents Only](https://independentsonly.com/county/cambridgeshire) |
+| [Suffolk](counties/suffolk.md) | 16,179 | [Suffolk on Independents Only](https://independentsonly.com/county/suffolk) |
+| [Northamptonshire](counties/northamptonshire.md) | 15,427 | [Northamptonshire on Independents Only](https://independentsonly.com/county/northamptonshire) |
+| [Bedfordshire](counties/bedfordshire.md) | 13,376 | [Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire) |
 
 Every town, with counts and the most common kinds of business, is listed on each county's page in [`counties/`](counties).
 
@@ -36,7 +35,7 @@ Every town, with counts and the most common kinds of business, is listed on each
 | [`data/independent-businesses.csv`](data/independent-businesses.csv) | One row per business: name, kind, group, town, county, whether the owner has confirmed it, and its page |
 | [`data/independents-by-town.csv`](data/independents-by-town.csv) | One row per town: number of independents, the most common kinds, and the town's page |
 | [`data/kinds.csv`](data/kinds.csv) | How many independents there are of each kind |
-| [`counties/`](counties) | One page per county: its Indie Index ranking and every town A to Z |
+| [`counties/`](counties) | One page per county: every town A to Z |
 
 No phone numbers, addresses or personal details are included. Each business links to its page on Independents Only.
 

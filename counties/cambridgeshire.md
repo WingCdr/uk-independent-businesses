@@ -4,22 +4,6 @@
 
 Browse them all: **[Cambridgeshire on Independents Only](https://independentsonly.com/county/cambridgeshire)**
 
-## The most independent towns in Cambridgeshire (Indie Index)
-
-The share of each town's high-street businesses (shops, cafés, pubs, restaurants, salons and places to stay) that aren't chains. [How it's worked out](https://independentsonly.com/indie-index/method)
-
-| Rank | Town | Independent | High-street businesses |
-|---|---|---|---|
-| 1 | [Chatteris](https://independentsonly.com/in/chatteris-cambridgeshire) | 86% | 74 of 86 |
-| 2 | [Ely](https://independentsonly.com/in/ely-cambridgeshire) | 82% | 502 of 612 |
-| 3 | [March](https://independentsonly.com/in/march-cambridgeshire) | 78.6% | 198 of 252 |
-| 4 | [Wisbech](https://independentsonly.com/in/wisbech-cambridgeshire) | 76.6% | 294 of 384 |
-| 5 | [St Neots](https://independentsonly.com/in/st-neots-cambridgeshire) | 76.4% | 310 of 406 |
-| 6 | [St Ives](https://independentsonly.com/in/st-ives-cambridgeshire) | 75.3% | 192 of 255 |
-| 7 | [Peterborough](https://independentsonly.com/in/peterborough-cambridgeshire) | 74.4% | 1718 of 2308 |
-| 8 | [Huntingdon](https://independentsonly.com/in/huntingdon-cambridgeshire) | 74.3% | 499 of 672 |
-| 9 | [Cambridge](https://independentsonly.com/in/cambridge-cambridgeshire) | 73.7% | 1971 of 2675 |
-
 ## Every town in Cambridgeshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

@@ -4,22 +4,6 @@
 
 Browse them all: **[Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire)**
 
-## The most independent towns in Bedfordshire (Indie Index)
-
-The share of each town's high-street businesses (shops, cafés, pubs, restaurants, salons and places to stay) that aren't chains. [How it's worked out](https://independentsonly.com/indie-index/method)
-
-| Rank | Town | Independent | High-street businesses |
-|---|---|---|---|
-| 1 | [Arlesey](https://independentsonly.com/in/arlesey-bedfordshire) | 100% | 30 of 30 |
-| 2 | [Shefford](https://independentsonly.com/in/shefford-bedfordshire) | 84% | 63 of 75 |
-| 3 | [Sandy](https://independentsonly.com/in/sandy-bedfordshire) | 83.5% | 162 of 194 |
-| 4 | [Henlow](https://independentsonly.com/in/henlow-bedfordshire) | 81.5% | 44 of 54 |
-| 5 | [Bedford](https://independentsonly.com/in/bedford-bedfordshire) | 80% | 1615 of 2020 |
-| 6 | [Leighton Buzzard](https://independentsonly.com/in/leighton-buzzard-bedfordshire) | 79.3% | 410 of 517 |
-| 7 | [Dunstable](https://independentsonly.com/in/dunstable-bedfordshire) | 75.3% | 479 of 636 |
-| 8 | [Luton](https://independentsonly.com/in/luton-bedfordshire) | 74% | 1218 of 1645 |
-| 9 | [Biggleswade](https://independentsonly.com/in/biggleswade-bedfordshire) | 73.4% | 212 of 289 |
-
 ## Every town in Bedfordshire, A to Z
 
 | Town | Independent businesses | Most common kinds |

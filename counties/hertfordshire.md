@@ -4,44 +4,6 @@
 
 Browse them all: **[Hertfordshire on Independents Only](https://independentsonly.com/county/hertfordshire)**
 
-## The most independent towns in Hertfordshire (Indie Index)
-
-The share of each town's high-street businesses (shops, cafés, pubs, restaurants, salons and places to stay) that aren't chains. [How it's worked out](https://independentsonly.com/indie-index/method)
-
-| Rank | Town | Independent | High-street businesses |
-|---|---|---|---|
-| 1 | [Knebworth](https://independentsonly.com/in/knebworth-hertfordshire) | 91.3% | 73 of 80 |
-| 2 | [Kings Langley](https://independentsonly.com/in/kings-langley-hertfordshire) | 90.5% | 105 of 116 |
-| 3 | [Sawbridgeworth](https://independentsonly.com/in/sawbridgeworth-hertfordshire) | 85.9% | 122 of 142 |
-| 4 | [Radlett](https://independentsonly.com/in/radlett-hertfordshire) | 85.7% | 144 of 168 |
-| 5 | [Buntingford](https://independentsonly.com/in/buntingford-hertfordshire) | 85.7% | 90 of 105 |
-| 6 | [Abbots Langley](https://independentsonly.com/in/abbots-langley-hertfordshire) | 85% | 85 of 100 |
-| 7 | [Tring](https://independentsonly.com/in/tring-hertfordshire) | 84.2% | 171 of 203 |
-| 8 | [Bushey](https://independentsonly.com/in/bushey-hertfordshire) | 83.1% | 133 of 160 |
-| 9 | [Welwyn](https://independentsonly.com/in/welwyn-hertfordshire) | 82.1% | 78 of 95 |
-| 10 | [Hertford](https://independentsonly.com/in/hertford-hertfordshire) | 81.6% | 381 of 467 |
-| 11 | [Ware](https://independentsonly.com/in/ware-hertfordshire) | 81.6% | 275 of 337 |
-| 12 | [Potters Bar](https://independentsonly.com/in/potters-bar-hertfordshire) | 80.5% | 243 of 302 |
-| 13 | [Royston](https://independentsonly.com/in/royston-hertfordshire) | 78.4% | 261 of 333 |
-| 14 | [Hoddesdon](https://independentsonly.com/in/hoddesdon-hertfordshire) | 78.1% | 175 of 224 |
-| 15 | [Hitchin](https://independentsonly.com/in/hitchin-hertfordshire) | 77.6% | 539 of 695 |
-| 16 | [Broxbourne](https://independentsonly.com/in/broxbourne-hertfordshire) | 77.5% | 79 of 102 |
-| 17 | [Rickmansworth](https://independentsonly.com/in/rickmansworth-hertfordshire) | 77.4% | 281 of 363 |
-| 18 | [Harpenden](https://independentsonly.com/in/harpenden-hertfordshire) | 77.3% | 231 of 299 |
-| 19 | [Berkhamsted](https://independentsonly.com/in/berkhamsted-hertfordshire) | 75.4% | 236 of 313 |
-| 20 | [Bishop's Stortford](https://independentsonly.com/in/bishops-stortford-hertfordshire) | 73.8% | 473 of 641 |
-| 21 | [Baldock](https://independentsonly.com/in/baldock-hertfordshire) | 73.6% | 120 of 163 |
-| 22 | [Letchworth](https://independentsonly.com/in/letchworth-hertfordshire) | 73.4% | 221 of 301 |
-| 23 | [St Albans](https://independentsonly.com/in/st-albans-hertfordshire) | 73.3% | 901 of 1229 |
-| 24 | [Waltham Cross](https://independentsonly.com/in/waltham-cross-hertfordshire) | 71.4% | 267 of 374 |
-| 25 | [Hemel Hempstead](https://independentsonly.com/in/hemel-hempstead-hertfordshire) | 71% | 584 of 823 |
-| 26 | [Hatfield](https://independentsonly.com/in/hatfield-hertfordshire) | 68.7% | 261 of 380 |
-| 27 | [Borehamwood](https://independentsonly.com/in/borehamwood-hertfordshire) | 68% | 259 of 381 |
-| 28 | [Stevenage](https://independentsonly.com/in/stevenage-hertfordshire) | 66.8% | 522 of 781 |
-| 29 | [Watford](https://independentsonly.com/in/watford-hertfordshire) | 65.9% | 883 of 1339 |
-| 30 | [Cheshunt](https://independentsonly.com/in/cheshunt-hertfordshire) | 61.5% | 32 of 52 |
-| 31 | [Welwyn Garden City](https://independentsonly.com/in/welwyn-garden-city-hertfordshire) | 61.2% | 208 of 340 |
-
 ## Every town in Hertfordshire, A to Z
 
 | Town | Independent businesses | Most common kinds |
