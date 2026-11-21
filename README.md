@@ -1,33 +1,33 @@
 # Independent businesses in the UK, by town
 
-**152,365 independent, owner-run businesses in 3,087 towns and villages** across Essex, Hertfordshire, Buckinghamshire, Cambridgeshire, Suffolk, Northamptonshire and Bedfordshire. More UK counties are added from January 2027.
+**314,759 independent, owner-run businesses in 6,787 towns and villages** across 15 counties of England: Bedfordshire, Berkshire, Buckinghamshire, Cambridgeshire, Essex, Hertfordshire, Kent, Leicestershire, Lincolnshire, Norfolk, Northamptonshire, Oxfordshire, Rutland, Suffolk, Surrey. London follows in December 2026 and the rest of England after that.
 
 From [Independents Only](https://independentsonly.com), the free UK search engine that lists only independent businesses. No chains or franchises: every listing is checked against more than 21,000 chain and franchise brands. Nobody can pay to be listed or to rank higher, and it's free for businesses.
 
 ## Key figures (November 2026)
 
-- 152,365 independent businesses listed across seven counties.
+- 314,759 independent businesses listed across 15 counties.
 - About one in five has no website of its own, so it's hard to find through ordinary web search.
 
 | County | Independent businesses | Browse |
 |---|---|---|
-| [Essex](counties/essex.md) | 40,126 | [Essex on Independents Only](https://independentsonly.com/county/essex) |
-| [Hertfordshire](counties/hertfordshire.md) | 29,470 | [Hertfordshire on Independents Only](https://independentsonly.com/county/hertfordshire) |
-| [Buckinghamshire](counties/buckinghamshire.md) | 19,105 | [Buckinghamshire on Independents Only](https://independentsonly.com/county/buckinghamshire) |
-| [Cambridgeshire](counties/cambridgeshire.md) | 18,682 | [Cambridgeshire on Independents Only](https://independentsonly.com/county/cambridgeshire) |
-| [Suffolk](counties/suffolk.md) | 16,179 | [Suffolk on Independents Only](https://independentsonly.com/county/suffolk) |
-| [Northamptonshire](counties/northamptonshire.md) | 15,427 | [Northamptonshire on Independents Only](https://independentsonly.com/county/northamptonshire) |
-| [Bedfordshire](counties/bedfordshire.md) | 13,376 | [Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire) |
+| [Essex](counties/essex.md) | 39,776 | [Essex on Independents Only](https://independentsonly.com/county/essex) |
+| [Kent](counties/kent.md) | 37,870 | [Kent on Independents Only](https://independentsonly.com/county/kent) |
+| [Hertfordshire](counties/hertfordshire.md) | 29,188 | [Hertfordshire on Independents Only](https://independentsonly.com/county/hertfordshire) |
+| [Surrey](counties/surrey.md) | 27,870 | [Surrey on Independents Only](https://independentsonly.com/county/surrey) |
+| [Lincolnshire](counties/lincolnshire.md) | 21,271 | [Lincolnshire on Independents Only](https://independentsonly.com/county/lincolnshire) |
+| [Leicestershire](counties/leicestershire.md) | 20,721 | [Leicestershire on Independents Only](https://independentsonly.com/county/leicestershire) |
+| [Berkshire](counties/berkshire.md) | 20,218 | [Berkshire on Independents Only](https://independentsonly.com/county/berkshire) |
+| [Norfolk](counties/norfolk.md) | 19,753 | [Norfolk on Independents Only](https://independentsonly.com/county/norfolk) |
+| [Cambridgeshire](counties/cambridgeshire.md) | 18,801 | [Cambridgeshire on Independents Only](https://independentsonly.com/county/cambridgeshire) |
+| [Buckinghamshire](counties/buckinghamshire.md) | 18,350 | [Buckinghamshire on Independents Only](https://independentsonly.com/county/buckinghamshire) |
+| [Oxfordshire](counties/oxfordshire.md) | 15,963 | [Oxfordshire on Independents Only](https://independentsonly.com/county/oxfordshire) |
+| [Suffolk](counties/suffolk.md) | 15,905 | [Suffolk on Independents Only](https://independentsonly.com/county/suffolk) |
+| [Northamptonshire](counties/northamptonshire.md) | 14,933 | [Northamptonshire on Independents Only](https://independentsonly.com/county/northamptonshire) |
+| [Bedfordshire](counties/bedfordshire.md) | 13,214 | [Bedfordshire on Independents Only](https://independentsonly.com/county/bedfordshire) |
+| [Rutland](counties/rutland.md) | 926 | [Rutland on Independents Only](https://independentsonly.com/county/rutland) |
 
-The most independent town in each county ([Indie Index](https://independentsonly.com/indie-index), share of shops, cafés, pubs, salons and places to stay that aren't chains):
-
-- **Suffolk:** Eye (96%)
-- **Essex:** Southminster (92%)
-- **Buckinghamshire:** Great Missenden (91%)
-- **Hertfordshire:** Knebworth (91%)
-- **Cambridgeshire:** Chatteris (86%)
-- **Bedfordshire:** Shefford (84%)
-- **Northamptonshire:** Brackley (84%)
+The most independent towns in each county are ranked in the [Indie Index](https://independentsonly.com/indie-index), updated weekly: the share of each town's shops, cafés, pubs, salons and places to stay that aren't chains. In November 2026 the most independent towns included Eye in Suffolk (96%), West Molesey in Surrey (94%), Woodhall Spa in Lincolnshire (93%) and Southminster in Essex (92%).
 
 Every town, with counts and the most common kinds of business, is listed on each county's page in [`counties/`](counties).
 
@@ -58,7 +58,7 @@ No phone numbers, addresses or personal details are included. Each business link
 
 ## Licence and credit
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to use, share and adapt, including commercially, with credit:
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for the figures. Business locations contain data © Overture Maps Foundation, under the [Community Data License Agreement – Permissive 2.0](https://cdla.dev/permissive-2-0/). Free to use, share and adapt, including commercially, with credit:
 
 > Figures: Independents Only (independentsonly.com/figures)
 
